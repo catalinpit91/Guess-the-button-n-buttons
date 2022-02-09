@@ -1,4 +1,4 @@
-<script type="text/javascript">
+
   var winnerButton = Math.floor(Math.random() * 3);
   function addButtons() {
     var buttonsNumber = document.getElementById("numberOfButtons").value;
@@ -20,4 +20,4 @@
   function newGame() {
     location.reload();
   }
-</script>
+
